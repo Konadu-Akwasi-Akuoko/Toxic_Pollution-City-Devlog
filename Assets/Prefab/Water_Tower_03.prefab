@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6214840983843593411}
   - component: {fileID: 6214840983846984931}
   - component: {fileID: 6214840983845887523}
+  - component: {fileID: 2353476266282992190}
   m_Layer: 0
   m_Name: Water_Tower_03
   m_TagString: Untagged
@@ -81,3 +82,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2353476266282992190
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6214840983843946723}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 7b54c12e746d748da8f80e5e7d01e627, type: 3}

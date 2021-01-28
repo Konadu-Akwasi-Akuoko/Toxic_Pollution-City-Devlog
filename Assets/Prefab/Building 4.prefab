@@ -1386,6 +1386,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7608498313674486978}
+  - component: {fileID: 3670915919392214766}
   m_Layer: 0
   m_Name: Building 4
   m_TagString: Untagged
@@ -1420,6 +1421,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &3670915919392214766
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7608498313674776610}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1 &7608498313674776612
 GameObject:
   m_ObjectHideFlags: 0

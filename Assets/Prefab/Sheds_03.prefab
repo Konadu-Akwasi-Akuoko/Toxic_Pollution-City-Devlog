@@ -92,6 +92,7 @@ GameObject:
   - component: {fileID: 5252034361806902484}
   - component: {fileID: 3871406640253791970}
   - component: {fileID: 7387441299263164955}
+  - component: {fileID: -8280833343683412326}
   m_Layer: 0
   m_Name: Sheds_03
   m_TagString: Untagged
@@ -163,3 +164,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &-8280833343683412326
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9131506414898095815}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -387298209978578080, guid: 4da56fb492c9746ba941b1e9d8c90252, type: 3}

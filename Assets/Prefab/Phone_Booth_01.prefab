@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2465671375052852628}
   - component: {fileID: 2465671375053622708}
   - component: {fileID: 2465671375054622580}
+  - component: {fileID: -6142867817217683726}
   m_Layer: 0
   m_Name: Phone_Booth_01
   m_TagString: Untagged
@@ -81,3 +82,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &-6142867817217683726
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2465671375052362164}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 04f2732caa5c44a39ad410c9b06a6ef9, type: 3}
